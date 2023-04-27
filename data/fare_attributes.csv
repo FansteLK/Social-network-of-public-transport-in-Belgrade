@@ -1,0 +1,10 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+!F1_to_F1,89,RSD,0,,5400
+!F1_to_F2,89,RSD,0,,5400
+!F2_to_F1,89,RSD,0,,5400
+!F2_to_F2,89,RSD,0,,5400
+!F3_to_F3,89,RSD,0,,5400
+!F1_to_F3,179,RSD,0,,5400
+!F2_to_F3,179,RSD,0,,5400
+!F3_to_F2,179,RSD,0,,5400
+!F3_to_F1,179,RSD,0,,5400
